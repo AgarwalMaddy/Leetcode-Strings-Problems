@@ -3,7 +3,7 @@ class Solution {
         return address.replace(".", "[.]");
     }
 }
-public class DefangingIP {
+public class 1108 {
     public static void main(String args[]) {
       Solution s = new Solution();
     }
